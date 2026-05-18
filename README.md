@@ -22,7 +22,7 @@ La aplicación no reemplaza la decisión humana. Funciona como un primer filtro 
 
 Ingresa a la app en el siguiente link:
 
-> 🔗 **[[Insertar link de Streamlit Cloud aquí]](https://nitidoapp-ejyamcrur2mnnhvddmctm4.streamlit.app/)**
+> 🔗 **[[[https://nitidoapp-ejyamcrur2mnnhvddmctm4.streamlit.app/](https://nitidoapp-ejyamcrur2mnnhvddmctm4.streamlit.app/)]]**
 
 En el panel izquierdo encontrarás las 18 variables del perfil del candidato, organizadas en tres grupos:
 
@@ -87,19 +87,12 @@ nitido_app/
 ├── scaler.pkl          → Normalizador ajustado sobre datos de entrenamiento
 ├── umbral_final.pkl    → Umbral óptimo de decisión (maximiza F1)
 ├── X_train_sc.npy      → Datos de entrenamiento escalados (necesarios para SHAP)
-└── logo_nitido.png     → Logo de la empresa
+└── logo_nitido1.png     → Logo de la empresa
 ```
 
 ---
 
-## Entregables del reto
 
-| Entregable | Estado |
-|-----------|--------|
-| Cuadernillo técnico (20 acciones) | ✅ Entregado |
-| Informe ejecutivo para el CEO | ✅ Entregado |
-| App Streamlit desplegada | ✅ [Ver link arriba] |
-| Sustentación oral | 20 de mayo de 2025 |
 
 ---
 
