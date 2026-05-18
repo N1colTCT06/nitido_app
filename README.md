@@ -22,7 +22,7 @@ La aplicación no reemplaza la decisión humana. Funciona como un primer filtro 
 
 Ingresa a la app en el siguiente link:
 
-> 🔗 **[Insertar link de Streamlit Cloud aquí]**
+> 🔗 **[[Insertar link de Streamlit Cloud aquí]](https://nitidoapp-ejyamcrur2mnnhvddmctm4.streamlit.app/)**
 
 En el panel izquierdo encontrarás las 18 variables del perfil del candidato, organizadas en tres grupos:
 
