@@ -2,7 +2,7 @@
 
 **Universidad Externado de Colombia · Pregrado en Ciencia de Datos**  
 **Curso:** Machine Learning II · **Docente:** Alber Montenegro  
-**Equipo:** Escobar · Cerinza · González · Umbarila
+**Equipo:** Cerinza · González
 
 ---
 
